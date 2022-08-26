@@ -1,4 +1,4 @@
-# tretton37.crawler
+# Crawler.Sample
 
 This is a console application that can read, save and find new links from one page and do it again recursively
 
